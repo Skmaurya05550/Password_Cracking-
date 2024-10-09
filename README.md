@@ -38,3 +38,17 @@ while pw != U_pwd:
     os.system("cls")
 
 print("Your Password is: ", pw)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
