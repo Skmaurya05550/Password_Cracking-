@@ -1,5 +1,7 @@
 # Password Cracker Script
 
+![17284996246058553867196094962493](https://github.com/user-attachments/assets/3a9677e8-0d30-4b3c-b404-015d28a7d860)
+
 This script attempts to crack a password entered by the user by generating random combinations of characters until the correct password is found.
 
 ## Description
